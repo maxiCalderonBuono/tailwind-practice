@@ -1,23 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
+import PokemonList from "./components/PokemonList";
+import {pokelist} from "./data";
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="text-white bg-zinc-800 h-screen">
+      <h1 className="text-center py-4 text-2xl font-bold ">
+        Lista Simple
+      </h1>
+      <PokemonList list={pokelist}/>
     </div>
   );
 }
