@@ -5,7 +5,7 @@ export const pokelist = [
     types: "planta",
     icon: "https://upload.wikimedia.org/wikipedia/commons/f/f6/Pok%C3%A9mon_Grass_Type_Icon.svg",
     evolution: null,
-    url: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+    url: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon//versions/generation-v/black-white/animated/1.gif",
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const pokelist = [
     types: "planta",
     icon: "https://upload.wikimedia.org/wikipedia/commons/f/f6/Pok%C3%A9mon_Grass_Type_Icon.svg",
     evolution: "bulbasaur",
-    url: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+    url: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon//versions/generation-v/black-white/animated/2.gif",
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const pokelist = [
     types: "planta",
     icon: "https://upload.wikimedia.org/wikipedia/commons/f/f6/Pok%C3%A9mon_Grass_Type_Icon.svg",
     evolution: "ivysaur",
-    url: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+    url: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon//versions/generation-v/black-white/animated/female/3.gif",
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const pokelist = [
     types: "fuego",
     icon: "https://upload.wikimedia.org/wikipedia/commons/5/56/Pok%C3%A9mon_Fire_Type_Icon.svg",
     evolution: null,
-    url: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+    url: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon//versions/generation-v/black-white/animated/4.gif",
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const pokelist = [
     types: "fuego",
     icon: "https://upload.wikimedia.org/wikipedia/commons/5/56/Pok%C3%A9mon_Fire_Type_Icon.svg",
     evolution: "charmander",
-    url: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+    url: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon//versions/generation-v/black-white/animated/5.gif",
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const pokelist = [
     types: "fuego",
     icon: "https://upload.wikimedia.org/wikipedia/commons/5/56/Pok%C3%A9mon_Fire_Type_Icon.svg",
     evolution: "charmeleon",
-    url: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+    url: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon//versions/generation-v/black-white/animated/6.gif",
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const pokelist = [
     types: "agua",
     icon: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Pok%C3%A9mon_Water_Type_Icon.svg",
     evolution: null,
-    url: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+    url: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon//versions/generation-v/black-white/animated/7.gif",
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const pokelist = [
     types: "agua",
     icon: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Pok%C3%A9mon_Water_Type_Icon.svg",
     evolution: "squirtle",
-    url: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+    url: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon//versions/generation-v/black-white/animated/8.gif",
   },
   {
     id: 9,
@@ -69,14 +69,7 @@ export const pokelist = [
     types: "agua",
     icon: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Pok%C3%A9mon_Water_Type_Icon.svg",
     evolution: "wartortle",
-    url: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+    url: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon//versions/generation-v/black-white/animated/9.gif",
   },
-  {
-    id: 10,
-    name: "caterpie",
-    types: "agua",
-    icon: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Pok%C3%A9mon_Water_Type_Icon.svg",
-    evolution: null,
-    url: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
-  },
+ 
 ];
