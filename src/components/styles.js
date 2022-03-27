@@ -1,4 +1,4 @@
-export const MAIN_CONTAINER = "flex flex-col flex-wrap justify-center mx-auto md:flex-row md:w-6/12";
+export const MAIN_CONTAINER = "flex flex-col flex-wrap justify-center mx-2 md:mx-auto md:flex-row md:w-6/12";
 
 export const  CARD_CONTAINER = "flex md:flex-col items-center justify-center md:w-40 h-40 m-2 relative cursor-pointer hover:scale-110 transition-all text-white rounded-lg";
 
